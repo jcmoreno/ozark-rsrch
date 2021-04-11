@@ -37,7 +37,7 @@
 		  				Facelets Resolver:
 		      		</div>
 		      		<div class="col-sm-10">
-		      			<a href="ozark/facelets?name=%23{7*7}" class="btn btn-sm btn-outline-primary">facelets</a>
+		      			<a href="ozark/facelets?name=%23{7*7}" class="btn btn-sm btn-outline-primary" target="_blank">facelets</a>
 		      		</div>
 				</div>
 				<!-- 
